@@ -1,0 +1,16 @@
+country,planting start,planting end,season
+ethiopia,45,105,1
+kenya,45,105,1
+rwanda,199,289,1
+tanzania,334,77,1
+uganda,17,136,1
+malawi,242,301,1
+zambia,273,333,1
+kenya,259,319,2
+rwanda,17,77,2
+tanzania,243,303,2
+uganda,229,289,2
+rheasupdate,45,105,1
+rheasupdate,259,319,2
+rheasupdate2,45,105,1
+rheasupdate2,259,319,2
